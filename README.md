@@ -25,9 +25,11 @@ Shows the effect of placing scripts in the `<head>` vs `<body>` section.
 Open each `index.html` file in a web browser. The JavaScript code will run automatically, displaying alerts based on how each task is set up.
 
 👩‍💻 Created By  
-Sana Hameed  
-*Aspiring Developer | Saylani SMIT | Teacher= Hafsa Nadeem*
+Sana Hameed – Aspiring Developer  
+Teacher – Hafsa Nadeem  
+Institution – Saylani SMIT
 
 This README provides a complete overview of the JavaScript Alerts Assignment.
+
 
 
